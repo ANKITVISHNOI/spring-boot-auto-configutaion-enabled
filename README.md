@@ -1,1 +1,1 @@
-# spring boot sample with auto configguratiion enabled
+# spring boot sample with auto configuratiion enabled
